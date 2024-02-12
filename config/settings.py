@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'users',
-    'mail.apps.MailConfig',
+    'mail',
     'allauth',
     'allauth.account',
     'compressor',
